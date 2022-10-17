@@ -1,0 +1,46 @@
+
+.Buty{
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+    background-color:white;
+    color: black;
+    border-radius: 3px;
+    text-align: center;
+    margin-right: 1%;
+    margin-left: 4%;
+}
+.But{
+   
+    background-color: blue;
+    color: black;
+    border-radius: 3px;
+}
+.Ima{
+    width:25% ;
+    height: 50%;
+}
+.pa{
+    color: black;
+    margin-left: 4%;
+}
+.Gmail{
+    margin: 2%;
+    width: 3%;
+    height: 3%;
+}
+
+.foot{
+    margin-left: 45%;
+}
+.Abc{
+    padding-left:15px;
+}
+.Int{
+    padding-left: 15px;
+}
+.Lor{
+    padding: 17px 17px;
+}
+.All{
+    margin-left: 45%;
+}
